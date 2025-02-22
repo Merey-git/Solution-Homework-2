@@ -1,9 +1,6 @@
 package com.example.mud.controller;
 
 import java.util.Scanner;
-import com.example.mud.player.Player;
-import com.example.mud.room.Room;
-import com.example.mud.item.Item;
 
 
 public class MUDController {
